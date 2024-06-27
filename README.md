@@ -28,7 +28,7 @@ Getting Started Clone the repository to your local machine: git clone : https://
 - *Repository*: Manages data access using JPA.
 - *Entity*: Represents the MCQ question table in the database.
 - *Logging*: Implemented using SLF4J.
-- *Exception Handling*: Custom exceptions and global exception handlers.
+- *Exception Handling*: Custom exceptions.
 - *Testing*: Unit tests using JUnit 5 and Mockito.
 
 ## Setup Instructions
