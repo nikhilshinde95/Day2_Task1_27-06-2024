@@ -9,7 +9,7 @@ It includes features for creating, reading, getting specific, updating, and dele
 The project uses PostgreSQL as the database and follows standard Java and SQL naming conventions.
 
 ## GitHub Clone Link : 
-Getting Started Clone the repository to your local machine: git clone : 
+Getting Started Clone the repository to your local machine: git clone : https://github.com/nikhilshinde95/Day2_Task1_27-06-2024
 
 ## Technologies Used
 
