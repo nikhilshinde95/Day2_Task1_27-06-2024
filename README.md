@@ -14,7 +14,7 @@ Getting Started Clone the repository to your local machine: git clone : https://
 ## Technologies Used
 
 - Java 21
-- Spring Boot 3
+- Spring Boot 
 - PostgreSQL
 - JPA (Hibernate)
 - SLF4J for logging
